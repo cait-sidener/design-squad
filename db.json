@@ -1,0 +1,70 @@
+{ "designSquad":
+[
+    {
+        "position": "00-35-43-201",
+        "initials": "CA",
+        "first": "Crystal",
+        "last": "Ackerman",
+        "email": "crystala@ksdot.org",
+        "phone": "785-806-2185",
+        "beginDate": "2/2/2000",
+        "endDate": null,
+        "comments": "No data found in AD for position: 00-35-43-201"
+    },
+    {
+        "position": "00-06-63-812",
+        "initials": "RB",
+        "first": "Ryan",
+        "last": "Barrett",
+        "email": "ryanb@ksdot.org",
+        "phone": "785-296-0142",
+        "beginDate": "5/11/2015",
+        "endDate": null,
+        "comments": "No data found in AD for position: 00-06-63-812"
+    },
+    {
+        "position": "00-06-34-812",
+        "initials": "RB",
+        "first": "Ryan",
+        "last": "Barrett",
+        "email": "Ryan.Barrett@ks.org",
+        "phone": "785-296-0142",
+        "beginDate": "12/29/2015",
+        "endDate": null,
+        "comments": "No data found in AD for position: 00-06-34-812"
+    },
+    {
+        "position": "00-06-33-806",
+        "initials": "SB",
+        "first": "Stephen",
+        "last": "Bass",
+        "email": "Stephen.Bass@ks.org",
+        "phone": "+17852963840",
+        "beginDate": "12/29/2015",
+        "endDate": null,
+        "comments": null
+    },
+    {
+        "position": "00-06-50-806",
+        "initials": "SB",
+        "first": "Stephen",
+        "last": "Bass",
+        "email": "sbass@ksdot.org",
+        "phone": "+7852963840",
+        "beginDate": "8/14/2014",
+        "endDate": null,
+        "comments": "No data found in AD for position: 00-06-50-806"
+    },
+    {
+        "position": "00-35-43-201",
+        "initials": "DB",
+        "first": "David",
+        "last": "Behzadpour",
+        "email": "davidbeh@ksdot.org",
+        "phone": "(785) 296-7442",
+        "beginDate": "2/2/2000",
+        "endDate": "10/20/2010",
+        "comments": null
+    }
+  ]
+}
